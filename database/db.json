@@ -1,0 +1,690 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "like": 0,
+      "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "author": "Thomas Edison"
+    },
+    {
+      "id": 2,
+      "like": 0,
+      "text": "You can observe a lot just by watching.",
+      "author": "Yogi Berra"
+    },
+    {
+      "id": 3,
+      "like": 0,
+      "text": "A house divided against itself cannot stand.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 4,
+      "like": 0,
+      "text": "Difficulties increase the nearer we get to the goal.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    {
+      "id": 5,
+      "like": 0,
+      "text": "Fate is in your hands and no one elses",
+      "author": "Byron Pulsifer"
+    },
+    {
+      "id": 6,
+      "like": 0,
+      "text": "Be the chief but never the lord.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 7,
+      "like": 0,
+      "text": "Nothing happens unless first we dream.",
+      "author": "Carl Sandburg"
+    },
+    {
+      "id": 8,
+      "like": 0,
+      "text": "Well begun is half done.",
+      "author": "Aristotle"
+    },
+    {
+      "id": 9,
+      "like": 0,
+      "text": "Life is a learning experience, only if you learn.",
+      "author": "Yogi Berra"
+    },
+    {
+      "id": 10,
+      "like": 0,
+      "text": "Self-complacency is fatal to progress.",
+      "author": "Margaret Sangster"
+    },
+    {
+      "id": 11,
+      "like": 0,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha"
+    },
+    {
+      "id": 12,
+      "like": 0,
+      "text": "Facts are many, but the truth is one.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 13,
+      "like": 0,
+      "text": "Get your facts first, then you can distort them as you please.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 14,
+      "like": 0,
+      "text": "Age is an issue of mind over matter. If you donot mind, it doesnot matter.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 15,
+      "like": 0,
+      "text": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 16,
+      "like": 0,
+      "text": "If you tell the truth, you do not have to remember anything.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 17,
+      "like": 0,
+      "text": "Having nothing, nothing can he lose.",
+      "author": "William Shakespeare"
+    },
+    {
+      "id": 18,
+      "like": 0,
+      "text": "Sweet are the uses of adversity which, like the toad, ugly and venomous, wears yet a precious jewel in his head",
+      "author": "William Shakespeare"
+    },
+    {
+      "id": 19,
+      "like": 0,
+      "text": "Give every man thy ear, but few thy voice.",
+      "author": "William Shakespeare"
+    },
+    {
+      "id": 20,
+      "like": 0,
+      "text": "How poor are they that have not patience! What wound did ever heal but by degrees?",
+      "author": "William Shakespeare"
+    },
+    {
+      "id": 21,
+      "like": 0,
+      "text": "Though she be but little, she is fierce.",
+      "author": "William Shakespeare"
+    },
+    {
+      "id": 22,
+      "like": 0,
+      "text": "The robbed that smiles, steals something from the thief.",
+      "author": "William Shakespeare"
+    },
+    {
+      "id": 23,
+      "like": 0,
+      "text": "It is better to keep your mouth closed and let people think you are a fool than to open it and remove all doubt.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 24,
+      "like": 0,
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 25,
+      "like": 0,
+      "text": "It is not the size of the dog in the fight, it is the size of the fight in the dog.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 26,
+      "like": 0,
+      "text": "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far",
+      "author": "Swami vivekanand ji"
+    },
+    {
+      "id": 27,
+      "like": 0,
+      "text": "All the powers in the universe are already ours. It is we who have put our hands before our eyes and cry that it is dark.",
+      "author": "Swami vivekanand ji"
+    },
+    {
+      "id": 28,
+      "like": 0,
+      "text": "Where can we go to find God if we cannot see Him in our own hearts and in every living being.",
+      "author": "Swami vivekanand ji"
+    },
+    {
+      "id": 29,
+      "like": 0,
+      "text": "The more we come out and do good to others, the more our hearts will be purified, and God will be in them.",
+      "author": "Swami vivekanand ji"
+    },
+    {
+      "id": 30,
+      "like": 0,
+      "text": "Truth can be stated in a thousand different ways, yet each one can be true.",
+      "author": "Swami vivekanand ji"
+    },
+    {
+      "id": 31,
+      "like": 0,
+      "text": "The world is the great gymnasium where we come to make ourselves strong.",
+      "author": "Swami vivekanand ji"
+    },
+    {
+      "id": 32,
+      "like": 0,
+      "text": "Bite off more than you can chew, then chew it.",
+      "author": "Leonardo da vinci"
+    },
+    {
+      "id": 33,
+      "like": 0,
+      "text": "Work out your own salvation. Do not depend on others.",
+      "author": "Buddha"
+    },
+    {
+      "id": 34,
+      "like": 0,
+      "text": "Where there is shouting, there is no true knowledge.",
+      "author": "Leonardo da vinci"
+    },
+    {
+      "id": 35,
+      "like": 0,
+      "text": "Water is the driving force of all nature.",
+      "author": "Leonardo da vinci"
+    },
+    {
+      "id": 36,
+      "like": 0,
+      "text": "There is nothing which deceives us as much as our own judgement.",
+      "author": "Leonardo da vinci"
+    },
+    {
+      "id": 37,
+      "like": 0,
+      "text": "Learning never exhausts the mind.",
+      "author": "Leonardo da vinci"
+    },
+    {
+      "id": 38,
+      "like": 0,
+      "text": "There is nothing which deceives us as much as our own judgement.",
+      "author": "Leonardo da vinci"
+    },
+    {
+      "id": 39,
+      "like": 0,
+      "text": "All of us do not have equal talent. But , all of us have an equal opportunity to develop our talents.",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 40,
+      "like": 0,
+      "text": "Do not read success stories, you will only get a message. Read failure stories, you will get some ideas to get success.",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 41,
+      "like": 0,
+      "text": "All birds find shelter during a rain. But Eagle avoids rain by flying above the clouds.",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 42,
+      "like": 0,
+      "text": "You have to dream before your dreams can come true.",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 43,
+      "like": 0,
+      "text": "Failure will never overtake me if my determination to succeed is strong enough.",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 44,
+      "like": 0,
+      "text": "Creativity is seeing the same thing but thinking differently",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 45,
+      "like": 0,
+      "text": "If you fail, never give up because FAIL means 'First Attempt In Learning'",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 46,
+      "like": 0,
+      "text": "To succeed in your mission, you must have single-minded devotion to your goal.",
+      "author": "Dr. APJ Abdul Kalam"
+    },
+    {
+      "id": 47,
+      "like": 0,
+      "text": "Whatever anybody says or does, assume positive intent.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 48,
+      "like": 0,
+      "text": "He is able who thinks he is able.",
+      "author": "Buddha"
+    },
+    {
+      "id": 49,
+      "like": 0,
+      "text": "Every year in consulting is like three years in the corporate world because you have multiple clients, multiple issues - you grow so much..",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 50,
+      "like": 0,
+      "text": "The biological clock and the career clock are in total conflict with each other.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 51,
+      "like": 0,
+      "text": "Learn from yesterday, live for today, hope for tomorrow.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 52,
+      "like": 0,
+      "text": "I pick up the details that drve the organization insane. But sweating the details is moreimportant than anything else",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 53,
+      "like": 0,
+      "text": "At the end of the day, do not forget that you are a person.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 54,
+      "like": 0,
+      "text": "We pretend we have it all. We pretend we can have it all.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 55,
+      "like": 0,
+      "text": "Most importantly, we want to create a company where every employee can bring their whole selves to work.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 56,
+      "like": 0,
+      "text": "I am very honest - brutally honest. I always look at things from their point of view as well as mine. And I know when to walk away.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 57,
+      "like": 0,
+      "text": "Whatever anybody says or does, assume positive intent.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 58,
+      "like": 0,
+      "text": "But the good news was that my elder sister refused to get married straight away and I couldn't get married until she did so I had the licence to go off and dream",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 59,
+      "like": 0,
+      "text": "Take a stand. Be known for your courage and confidence.",
+      "author": "Indra Nooyi"
+    },
+    {
+      "id": 60,
+      "like": 0,
+      "text": "Attitude is attitude, whether you are a West Coast gangster or East Coast gangster, you know?",
+      "author": "paul walker"
+    },
+    {
+      "id": 61,
+      "like": 0,
+      "text": "I am a crazy car guy. I have got an airplane hangar full of cars.",
+      "author": "paul walker"
+    },
+    {
+      "id": 62,
+      "like": 0,
+      "text": "I am not afraid of anything. That is just the way I am.",
+      "author": "paul walker"
+    },
+    {
+      "id": 63,
+      "like": 0,
+      "text": "I don`t care what it is in life: listen to your heart. If you do, no matter what, you win.",
+      "author": "paul walker"
+    },
+    {
+      "id": 64,
+      "like": 0,
+      "text": "Sometimes the hurdles aren`t really hurdles at all. They`re welcome challenges, tests.",
+      "author": "paul walker"
+    },
+    {
+      "id": 65,
+      "like": 0,
+      "text": "To keep the body in good health is a duty",
+      "author": "Budha"
+    },
+    {
+      "id": 66,
+      "like": 0,
+      "text": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "author": "Budha"
+    },
+    {
+      "id": 67,
+      "like": 0,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Budha"
+    },
+    {
+      "id": 68,
+      "like": 0,
+      "text": "Even death is not to be feared by one who has lived wisely.",
+      "author": "Budha"
+    },
+    {
+      "id": 69,
+      "like": 0,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Budha"
+    },
+    {
+      "id": 70,
+      "like": 0,
+      "text": "Weakness of attitude becomes weakness of character.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 71,
+      "like": 0,
+      "text": "I have no special talent. I am only passionately curious.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 72,
+      "like": 0,
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 73,
+      "like": 0,
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 74,
+      "like": 0,
+      "text": "Look deep into nature, and then you will understand everything better.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 75,
+      "like": 0,
+      "text": "Coincidence is God`s way of remaining anonymous.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 76,
+      "like": 0,
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 77,
+      "like": 0,
+      "text": "If you can`t explain it simply, you don`t understand it well enough.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 78,
+      "like": 0,
+      "text": "The butterfly counts not months but moments, and has time enough.",
+      "author": "Rabindranath Tagore"
+    },
+    {
+      "id": 79,
+      "like": 0,
+      "text": "Don`t limit a child to your own learning, for he was born in another time.",
+      "author": "Rabindranath Tagore"
+    },
+    {
+      "id": 80,
+      "like": 0,
+      "text": "Trees are the earth`s endless effort to speak to the listening heaven.",
+      "author": "Rabindranath Tagore"
+    },
+    {
+      "id": 81,
+      "like": 0,
+      "text": "Every child comes with the message that God is not yet discouraged of man.",
+      "author": "Rabindranath Tagore"
+    },
+    {
+      "id": 82,
+      "like": 0,
+      "text": "Faith is the bird that feels the light when the dawn is still dark.",
+      "author": "Rabindranath Tagore"
+    },
+    {
+      "id": 83,
+      "like": 0,
+      "text": "I slept and dreamt that life was joy. I awoke and saw that life was service. I acted and behold, service was joy.",
+      "author": "Rabindranath Tagore"
+    },
+    {
+      "id": 84
+    },
+    {
+      "author": "hj,klfyhv",
+      "text": "ftygyyyyyyyyyyyy",
+      "id": 85
+    },
+    {
+      "author": "William Shakespeare",
+      "text": "How poor are they that have not patience! What wound did ever heal but by degrees?",
+      "id": 86
+    },
+    {
+      "author": "William Shakespeare",
+      "text": "Sweet mercy is nobility’s true badge.",
+      "id": 87
+    },
+    {
+      "author": "",
+      "text": "",
+      "id": 88
+    },
+    {
+      "author": "Rishabh",
+      "text": "I dont hate you but have lost all reason to love you",
+      "id": 89
+    }
+  ],
+  "signup": [
+    {
+      "userName": "cghasfd",
+      "email": "depak@mail",
+      "password": "dfghb",
+      "id": 1
+    },
+    {
+      "userName": "cghasfd",
+      "email": "depak@mail",
+      "password": "dfghb",
+      "id": 2
+    },
+    {
+      "userName": "cghasfd",
+      "email": "depak@mail",
+      "password": "dfghb",
+      "id": 3
+    },
+    {
+      "userName": "gopal",
+      "email": "@mail",
+      "password": "wtt",
+      "id": 4
+    },
+    {
+      "userName": "nitesh",
+      "email": "nitesh@gmail.com",
+      "password": "wtt",
+      "id": 5
+    },
+    {
+      "userName": "renu",
+      "email": "renu@mail.com",
+      "password": "wtt",
+      "id": 6
+    },
+    {
+      "userName": "tanu",
+      "email": "tanu@gmail.com",
+      "password": "smile",
+      "id": 7
+    },
+    {
+      "userName": "rishab",
+      "email": "risahab.upadhyay@walkingtree.tech",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "userName": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "userName": "abhay",
+      "email": "abhayupadhyay513@gmail.com",
+      "password": "abhay9690",
+      "id": 10
+    },
+    {
+      "userName": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    }
+  ],
+  "Autherlist": [
+    {
+      "id": 1,
+      "text": "William Shakespeare",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/220px-Shakespeare.jpg",
+      "details": "William Shakespeare was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the worlds greatest dramatist. He is often called England national poet and the 'Bard of Avon'.",
+      "color": "lightblue"
+    },
+    {
+      "id": 2,
+      "text": "Mark Twain",
+      "cols": 1,
+      "rows": 2,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/220px-Mark_Twain_by_AF_Bradley.jpg",
+      "details": "Samuel Langhorne Clemens, known by his pen name Mark Twain, was an American writer, humorist, entrepreneur, publisher, and lecturer.",
+      "color": "lightgreen"
+    },
+    {
+      "id": 3,
+      "text": "Swami vivekanand ji",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Swami_Vivekananda-1893-09-signed.jpg/220px-Swami_Vivekananda-1893-09-signed.jpg",
+      "details": "Swami Vivekananda, born Narendranath Datta, was an Indian Hindu monk, philosopher and author. He was a chief disciple of the 19th-century Indian mystic Ramakrishna",
+      "color": "lightpink"
+    },
+    {
+      "id": 4,
+      "text": "Leonardo da vinci",
+      "cols": 1,
+      "rows": 1,
+      "src": "http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcR8gQcD5ewEV7b-FcPzhJ2u6OGX_lChJROgta0c6zyRPPLSe2ES6yKJQvxiQOoyjdhp",
+      "details": "Leonardo di ser Piero da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect.",
+      "color": "#DDBDF1"
+    },
+    {
+      "id": 5,
+      "text": "Dr. APJ Abdul Kalam",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A._P._J._Abdul_Kalam.jpg/220px-A._P._J._Abdul_Kalam.jpg",
+      "details": "Avul Pakir Jainulabdeen Abdul Kalam also called A. P. J. Abdul Kalam was the 11th President of India. He was a great scientist and played a vital role in many ambitious projects, earning him the title of “Missile Man of India”.",
+      "color": "lightgreen"
+    },
+    {
+      "id": 6,
+      "text": "Rabindranath Tagore",
+      "cols": 1,
+      "rows": 2,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/220px-Rabindranath_Tagore_unknown_location.jpg",
+      "details": "Rabindranath Tagore FRAS was a Bengali polymath who worked as a poet, writer, playwright, composer, philosopher, social reformer and painter.",
+      "color": "#DDBDF1"
+    },
+    {
+      "id": 7,
+      "text": "Albert Einstein",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/220px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+      "details": "Albert Einstein was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time.",
+      "color": "lightgreen"
+    },
+    {
+      "id": 8,
+      "text": "Budha",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thai_-_Buddha_at_the_Moment_of_Victory_-_Walters_542775.jpg/95px-Thai_-_Buddha_at_the_Moment_of_Victory_-_Walters_542775.jpg",
+      "details": "Gautama Buddha was an ascetic and spiritual teacher of ancient India who lived during the latter half of the first millennium BCE. He was the founder of Buddhism.",
+      "color": "lightblue"
+    },
+    {
+      "id": 9,
+      "text": "paul walker",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/PaulWalkerEdit-1.jpg/220px-PaulWalkerEdit-1.jpg",
+      "details": "Paul William Walker IV was an American actor. He was known for his role as Brian O Conner in the Fast & Furious franchise.",
+      "color": "#DDBDF1"
+    },
+    {
+      "id": 10,
+      "text": "Indra Nooyi",
+      "cols": 1,
+      "rows": 1,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/IndraNooyiDavos2010ver2.jpg/220px-IndraNooyiDavos2010ver2.jpg",
+      "details": "Indra Nooyi is an Indian-American business executive and former chairperson and chief executive officer of PepsiCo.She has consistently ranked among the worlds 100 most powerful women.",
+      "color": "lightblue"
+    }
+  ]
+}
